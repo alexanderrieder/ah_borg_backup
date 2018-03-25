@@ -58,7 +58,6 @@ borg create -v --one-file-system --stats -C lz4            \
       --exclude /lib/modules				            \
       --exclude '*.pyc'                           	    \
       --exclude '/var/backups/'                         \
-      --exclude '/var/log/'                           	\
       --exclude '*.swp'
 
 ##
