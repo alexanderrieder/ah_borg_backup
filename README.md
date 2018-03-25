@@ -6,7 +6,7 @@ I work with the Hetzner Storage Box, so it is "pre-configured" for this backup t
 ## Usage
 1. Download the project
 ```
-wget https://github.com/lehuizi/ah_borg_backup/archive/master.zip
+wget https://github.com/alexanderrieder/ah_borg_backup/archive/master.zip
 ```
 
 2. Unzip the package
